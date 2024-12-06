@@ -19,13 +19,9 @@ redirect_from:
 
 I'm a second year graduate student from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). I am current working in the State Key Laboratory of Networking and Switching Technology [SKL-NST](https://sklnst.bupt.edu.cn/en/) with excellent [Xiaodong Xu](https://ieeexplore.ieee.org/author/37290503400). My research interests include semantic communication, computer vision, and homographic encryption.
 
-Before joining BUPT, I got my Bachelor’s Degree in Telecommunications Engineering with First Class Honors from a joint program between [BUPT](https://www.bupt.edu.cn/) and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in 2023..
+Before joining BUPT, I got my Bachelor’s Degree in Telecommunications Engineering with First Class Honors from a joint program between [BUPT](https://www.bupt.edu.cn/) and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in 2023.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+I love building systems. My research aims to design efficient networked systems, especially for data centers, through hardware-software co-design and cross-layer optimizations. My past research includes optical data center networks, systems for machine learning, and hardware accelerators. I have designed L2/L3 protocols for optical data center networks with data plane programmability and developed a specialized FPGA-based accelerator for SAT solving.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>

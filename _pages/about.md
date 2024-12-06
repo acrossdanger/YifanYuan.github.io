@@ -22,11 +22,12 @@ I'm a second year graduate student from [Beijing University of Posts and Telecom
 Before joining BUPT, I got my Bachelor’s Degree in Telecommunications Engineering with First Class Honors from a joint program between [BUPT](https://www.bupt.edu.cn/) and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in 2023.
 
 I love building systems. My research aims to design efficient networked systems, especially for data centers, through hardware-software co-design and cross-layer optimizations. My past research includes optical data center networks, systems for machine learning, and hardware accelerators. I have designed L2/L3 protocols for optical data center networks with data plane programmability and developed a specialized FPGA-based accelerator for SAT solving.
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+I play with
+- Java
+- Pytorch
+- C language
+- To be continue… 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun

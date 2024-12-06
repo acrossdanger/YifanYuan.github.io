@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second year graduate student from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). I am current working in the State Key Laboratory of Networking and Switching Technology [SKL-NST](https://sklnst.bupt.edu.cn/en/) with excellent [Xiaodong Xu](https://ieeexplore.ieee.org/author/37290503400).
+I'm a second year graduate student from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). I am current working in the State Key Laboratory of Networking and Switching Technology [SKL-NST](https://sklnst.bupt.edu.cn/en/) with excellent [Xiaodong Xu](https://ieeexplore.ieee.org/author/37290503400). My research interests include semantic communication, computer vision, and homographic encryption.
 
 Before joining BUPT, I got my Bachelor’s Degree in Telecommunications Engineering with First Class Honors from a joint program between [BUPT](https://www.bupt.edu.cn/) and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in 2023..
 
